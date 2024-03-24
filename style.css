@@ -181,7 +181,7 @@ color: var(--green-300);
     margin-bottom: 2rem;
 }
 
-.resultado buttom {
+.resultados button {
     width: 100%;
     background: var(--light-green);
     border: none;
